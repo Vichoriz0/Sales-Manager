@@ -1,1 +1,1 @@
-"# A simple Java desktop app for registering and visualizing sales with an interactive GUI for quick quoting to report to potential clients.
+"# A simple Java and Java Swing desktop app for registering and visualizing sales with an interactive GUI for quick quoting of work orders, allowing to register both inflows and outflows of money. Only needs JRE to run, using CSV files for data persistance.
